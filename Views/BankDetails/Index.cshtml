@@ -1,0 +1,26 @@
+﻿@model PL_APP_MVC.Dtos.BankDetailsDto
+@{
+}
+<h1>Bank Details</h1>
+
+<form action="/BankDetails/SaveBankDetails" method="post">
+
+    <input type="hidden" name="appId" value="@Model.AppId" />
+
+    Enter Bank Name: <input type="text" name="Bankname" /> <br />
+
+    Enter Bank Branch Name: <input type="text" name="Bankbranch" /> <br />
+
+    Enter Bank IFSC Name: <input type="text" name="Ifsccode" /> <br />
+
+    Enter Bank Account Type: <input type="text" name="Acctype" /> <br />
+
+    Enter Bank Account Number: <input type="text" name="Accnumber" /> <br />
+
+    Enter Account Holder Name: <input type="text" name="Accholdername" /> <br />
+
+    <input type="submit" value="Continue" />
+
+</form>
+
+<a href="/DocUpload/Index?id=1">Upload Documents</a>

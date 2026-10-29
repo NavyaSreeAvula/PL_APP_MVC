@@ -1,0 +1,16 @@
+﻿
+@{
+}
+
+<h2>Basic Details</h2>
+<form action="OtpVerification" method="post">
+    
+    Enter Email Id: <input type="text" name="EmailId" /><br />
+    
+    <input type="submit" value="Send OTP" />
+
+</form>
+
+<div style="color:red;">
+    @TempData["Error"]
+</div>

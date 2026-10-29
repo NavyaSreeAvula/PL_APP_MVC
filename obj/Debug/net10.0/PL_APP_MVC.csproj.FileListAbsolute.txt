@@ -1,0 +1,458 @@
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\appsettings.Development.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\appsettings.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.staticwebassets.runtime.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.staticwebassets.endpoints.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.exe
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.deps.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.runtimeconfig.json
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.pdb
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Azure.Core.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Azure.Identity.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Humanizer.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\MailKit.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\MimeKit.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\NETCore.MailKit.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.ClientModel.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.CodeDom.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Memory.Data.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MS.Net Works\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.AssemblyReference.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.AssemblyInfoInputs.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.AssemblyInfo.cs
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.CoreCompileInputs.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.RazorAssemblyInfo.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.RazorAssemblyInfo.cs
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\scopedcss\bundle\PL_APP_MVC.styles.css
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\scopedcss\projectbundle\PL_APP_MVC.bundle.scp.css
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\fzxk8c6dmc-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\qah2x3vnkn-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\z7yyw3x7lc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\5h35oxc26a-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\5t6i4jky3g-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\w0sttuqmtg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\658crf4j27-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\qzssfrqiut-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\jkvtgs38ge-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\f5fj2h6jda-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ovurtzez7q-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\lpqk2ydgz3-{0}-ub07r2b239-ub07r2b239.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\4tlbhiim91-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\y075m9evmg-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\gt46quc4mw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\q8t2i5zqp2-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\zyzg7rgera-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ow38loqbrx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\dep8wem92c-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\4omypfgp0i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\77uu69kbpp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\9up654tjx0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\8v43jmbfmx-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ssvhu3my0c-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\3rk3lxfpp1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\vutknrb9ir-{0}-06098lyss8-06098lyss8.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\xh3ct9hnlb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\qjyr0k18n5-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\v30vtw791i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\fsmgxzokc5-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\geq0junl4q-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ahhjehbj8h-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\0vq2ogazx4-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\4lkgn4odjf-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\7ctm4m0l79-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ol6cblesz3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\6lde5988do-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\c8x8x0pv67-{0}-493y06b0oq-493y06b0oq.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ziozwxxiur-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\k1dyulz98d-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\gtpfuw7mz9-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\y5rxq69lgw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\kf4ws7o9lb-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\dfmr7x7tbu-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\99sy1bjhpg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\40wiuqksua-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\3b4wc2wf78-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\g6xej2lpgp-{0}-47otxtyo56-47otxtyo56.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\9kqw8jc0er-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\omg0rlkntk-{0}-356vix0kms-356vix0kms.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\xpgz48m9qf-{0}-83jwlth58m-83jwlth58m.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\21ygb1yxdc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\7abrhq6000-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ncjokzh1xp-{0}-ag7o75518u-ag7o75518u.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\q2rmfvis7s-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\is334jux8a-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\ss7sp81mpz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\pk2ueleysd-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\tar5uo9wfn-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\lxcysuhnlj-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\mv7vbgz142-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\kdfc77iqi6-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\kzp2t88zre-{0}-jwy4zd03dt-jwy4zd03dt.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\compressed\sa0v7tc0y7-{0}-jwy4zd03dt-jwy4zd03dt.gz
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.development.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\swae.build.ex.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.Up2Date
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.dll
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\refint\PL_APP_MVC.dll
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.pdb
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.genruntimeconfig.cache
+E:\MS.Net Works\PL_APP_MVC\obj\Debug\net10.0\ref\PL_APP_MVC.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\appsettings.Development.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\appsettings.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.staticwebassets.runtime.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.staticwebassets.endpoints.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.exe
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.deps.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.runtimeconfig.json
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\PL_APP_MVC.pdb
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Azure.Core.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Azure.Identity.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Humanizer.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\MailKit.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\MimeKit.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\NETCore.MailKit.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.ClientModel.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.CodeDom.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Memory.Data.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sandeep\PL_APP_MVC\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.AssemblyReference.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.AssemblyInfoInputs.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.AssemblyInfo.cs
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.CoreCompileInputs.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.RazorAssemblyInfo.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.RazorAssemblyInfo.cs
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\scopedcss\bundle\PL_APP_MVC.styles.css
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\scopedcss\projectbundle\PL_APP_MVC.bundle.scp.css
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\fzxk8c6dmc-{0}-b9sayid5wm-b9sayid5wm.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\qah2x3vnkn-{0}-61n19gt1b8-61n19gt1b8.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\z7yyw3x7lc-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\5h35oxc26a-{0}-bqjiyaj88i-bqjiyaj88i.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\5t6i4jky3g-{0}-c2jlpeoesf-c2jlpeoesf.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\w0sttuqmtg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\658crf4j27-{0}-aexeepp0ev-aexeepp0ev.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\qzssfrqiut-{0}-d7shbmvgxk-d7shbmvgxk.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\jkvtgs38ge-{0}-ausgxo2sd3-ausgxo2sd3.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\f5fj2h6jda-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ovurtzez7q-{0}-cosvhxvwiu-cosvhxvwiu.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\lpqk2ydgz3-{0}-ub07r2b239-ub07r2b239.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\4tlbhiim91-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\y075m9evmg-{0}-b7pk76d08c-b7pk76d08c.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\gt46quc4mw-{0}-fsbi9cje9m-fsbi9cje9m.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\q8t2i5zqp2-{0}-rzd6atqjts-rzd6atqjts.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\zyzg7rgera-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ow38loqbrx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\dep8wem92c-{0}-jd9uben2k1-jd9uben2k1.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\4omypfgp0i-{0}-khv3u5hwcm-khv3u5hwcm.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\77uu69kbpp-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\9up654tjx0-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\8v43jmbfmx-{0}-c2oey78nd0-c2oey78nd0.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ssvhu3my0c-{0}-tdbxkamptv-tdbxkamptv.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\3rk3lxfpp1-{0}-j5mq2jizvt-j5mq2jizvt.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\vutknrb9ir-{0}-06098lyss8-06098lyss8.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\xh3ct9hnlb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\qjyr0k18n5-{0}-s35ty4nyc5-s35ty4nyc5.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\v30vtw791i-{0}-pj5nd1wqec-pj5nd1wqec.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\fsmgxzokc5-{0}-46ein0sx1k-46ein0sx1k.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\geq0junl4q-{0}-v0zj4ognzu-v0zj4ognzu.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ahhjehbj8h-{0}-37tfw0ft22-37tfw0ft22.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\0vq2ogazx4-{0}-hrwsygsryq-hrwsygsryq.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\4lkgn4odjf-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\7ctm4m0l79-{0}-ft3s53vfgj-ft3s53vfgj.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ol6cblesz3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\6lde5988do-{0}-6pdc2jztkx-6pdc2jztkx.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\c8x8x0pv67-{0}-493y06b0oq-493y06b0oq.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ziozwxxiur-{0}-iovd86k7lj-iovd86k7lj.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\k1dyulz98d-{0}-vr1egmr9el-vr1egmr9el.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\gtpfuw7mz9-{0}-kbrnm935zg-kbrnm935zg.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\y5rxq69lgw-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\kf4ws7o9lb-{0}-y7v9cxd14o-y7v9cxd14o.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\dfmr7x7tbu-{0}-notf2xhcfb-notf2xhcfb.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\99sy1bjhpg-{0}-h1s4sie4z3-h1s4sie4z3.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\40wiuqksua-{0}-63fj8s7r0e-63fj8s7r0e.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\3b4wc2wf78-{0}-0j3bgjxly4-0j3bgjxly4.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\g6xej2lpgp-{0}-47otxtyo56-47otxtyo56.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\9kqw8jc0er-{0}-4v8eqarkd7-4v8eqarkd7.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\omg0rlkntk-{0}-356vix0kms-356vix0kms.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\xpgz48m9qf-{0}-83jwlth58m-83jwlth58m.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\21ygb1yxdc-{0}-mrlpezrjn3-mrlpezrjn3.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\7abrhq6000-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ncjokzh1xp-{0}-ag7o75518u-ag7o75518u.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\q2rmfvis7s-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\is334jux8a-{0}-0i3buxo5is-0i3buxo5is.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\ss7sp81mpz-{0}-o1o13a6vjx-o1o13a6vjx.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\pk2ueleysd-{0}-ttgo8qnofa-ttgo8qnofa.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\tar5uo9wfn-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\lxcysuhnlj-{0}-muycvpuwrr-muycvpuwrr.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\mv7vbgz142-{0}-87fc7y1x7t-87fc7y1x7t.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\kdfc77iqi6-{0}-mlv21k5csn-mlv21k5csn.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\kzp2t88zre-{0}-jwy4zd03dt-jwy4zd03dt.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\compressed\sa0v7tc0y7-{0}-jwy4zd03dt-jwy4zd03dt.gz
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.development.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\swae.build.ex.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.csproj.Up2Date
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.dll
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\refint\PL_APP_MVC.dll
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.pdb
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\PL_APP_MVC.genruntimeconfig.cache
+E:\sandeep\PL_APP_MVC\obj\Debug\net10.0\ref\PL_APP_MVC.dll

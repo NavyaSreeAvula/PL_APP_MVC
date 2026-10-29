@@ -1,0 +1,24 @@
+﻿
+@{
+}
+<h2>Basic Details</h2>
+<form action="ValidateBasicDetails" method="post">
+    <!--<input type="hidden" name="EmailId" value="@ViewBag.Emailid" /><br />-->
+
+
+    Enter Your First Name: <input type="text" name="FirstName" /><br />
+    Enter Your Last Name: <input type="text" name="LastName" /><br />
+    Enter Mobile Number: <input type="text" name="MobileNumber" /><br />
+    Enter Email Id: <input type="text" name="EmailId" value="@ViewBag.Emailid" /><br/>
+    Enter PAN Number: <input type="text" name="PanNumber" /><br/>
+    Enter Aadhar Number: <input type="text" name="AadharNumber" /><br/>
+    Enter PinCode : <input type="text" name="Pincode" /><br />
+    Enter Your Date of Birth: <input type="date" name="Dob" /><br/>
+    
+    <input type="submit" value="Continue" />
+
+</form>
+
+<div style="color:red;">
+    @TempData["Error"]
+</div>

@@ -1,0 +1,43 @@
+﻿
+@{
+    Basicdetail basicdetail = ViewBag.Basicdetail;
+    Companydetail companydetail = ViewBag.Companydetail;
+    Loandetail loandetail = ViewBag.Loandetail;
+    Personaldetail personaldetail = ViewBag.Personaldetail;
+    Bankdetail bankdetail = ViewBag.Bankdetail;
+}
+<h1>Application Details</h1>
+<hr />
+
+<h3>Basic Details</h3>
+Customer Name: @basicdetail.Firstname &nbsp; @basicdetail.Lastname <br />
+Lead Id: @basicdetail.Leadid <br />
+Pan Card: @basicdetail.Pannumber <br />
+Aadhar Card: @basicdetail.Aadharnumber <br />
+<hr />
+
+<h3>Company Details</h3>
+Company Name: @companydetail.Companyname <br/>
+<hr />
+
+
+<h3>Personal Details</h3>
+
+<hr />
+<h3>Bank Details</h3>
+
+<hr />
+<h3>Applied Loan Details</h3>
+Applied Loan Amount: @loandetail.Appliedamount <br/>
+Applied Roi: @loandetail.Roi
+Applied Tenure: @loandetail.Appliedtenure
+Applied Emi: @loandetail.Emi
+
+<hr />
+<form action="UpdateLoanStatus" method="Post">
+    <input type="hidden" name="id" value="@ViewBag.Id" />
+    Approved Loan Amount: <input type="text" name="ApprovedLoanAmt" /><br/>
+    Approved Roi: <input type="text" name="ApprovedRoi" /><br/>
+    Approved Tenure: <input type="text" name="ApprovedTenure" /> <br/>
+                    <input type="submit" value="UpdateLoanStatus" />
+ </form>

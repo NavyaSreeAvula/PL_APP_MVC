@@ -1,0 +1,18 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "PlAppConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PLAPP;Integrated Security=True;Encrypt=False;Trust Server Certificate=true;"
+  },
+  "SmtpSettings": {
+    "SmtpServer": "smtp.gmail.com",
+    "SmtpPort": "587",
+    "SmtpUsername": "sandeepvoleti1008@gmail.com",
+    "SmtpPassword": "usen mmkt rhtd qjhh"
+  }
+}

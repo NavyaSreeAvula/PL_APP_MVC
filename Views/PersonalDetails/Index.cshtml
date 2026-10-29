@@ -1,0 +1,46 @@
+﻿@model PL_APP_MVC.Dtos.PersonalDetailsDto
+@{
+}
+<h1>Personal Details</h1>
+
+<form action="/PersonalDetails/SavePersonalDetails" method="post">
+
+    <input type="hidden" name="appId" value="@Model.AppId" />
+
+    Enter Father Name: <input type="text" name="Fathername" /> <br />
+
+    Enter Mother Name: <input type="text" name="Mothername" /> <br />
+
+    Enter Permanent Address: <input type="text" name="Permanentaddress" /> <br />
+
+    Enter Current Address: <input type="text" name="Currentaddress" /> <br />
+
+    <hr />
+
+    <h4>Reference 1</h4>
+
+    Enter Reference Name: <input type="text" name="Reference1name" /> <br />
+
+    Enter Reference Email: <input type="email" name="Reference1email" /> <br />
+
+    Enter Reference Mobile: <input type="text" name="Reference1mobile" /> <br />
+
+    Enter Reference Relation: <input type="text" name="Reference1relation" /> <br />
+
+    <hr />
+
+    <h4>Reference 2</h4>
+
+    Enter Reference Name: <input type="text" name="Reference2name" /> <br />
+
+    Enter Reference Email: <input type="email" name="Reference2email" /> <br />
+
+    Enter Reference Mobile: <input type="text" name="Reference2mobile" /> <br />
+
+    Enter Reference Relation: <input type="text" name="Reference2relation" /> <br /><br />
+
+    <input type="submit" value="Continue" />
+
+</form>
+
+<a href="/DocUpload/Index?id=1">Upload Documents</a>

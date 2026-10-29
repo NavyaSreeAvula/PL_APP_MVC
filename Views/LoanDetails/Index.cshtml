@@ -1,0 +1,21 @@
+﻿@model PL_APP_MVC.Dtos.LoanDetailsDto
+@{
+}
+
+<h1>Chose your Loan Details</h1>
+
+<form action="/LoanDetails/SaveLoanDetails" method="post">
+    <input type="hidden" name="appId" value="@Model.AppId" />
+    <input type="hidden" name="Roi" value="@Model.Roi" />
+    <input type="hidden" name="Emi" value="@Model.Emi" />
+    Min Loan Amount: @Model.MinLoanAmount  - Max Loan Amount: @Model.MaxLoanAmount <br/> 
+    Enter the Loan Amount: <input type="text" name="MaxLoanAmount" /> <br/>
+
+    Min Tenure:12 - Max Tenure: @Model.Tenure <br/>
+    Enter the Max Tenure: <input type="text" name="Tenure" /> <br/>
+
+    Roi: @Model.Roi <br/>
+    EMI: @Model.Emi <br/>
+    <input type="submit" value="Continue" />
+</form>
+

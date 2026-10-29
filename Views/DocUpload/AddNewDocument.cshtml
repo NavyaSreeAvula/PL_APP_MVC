@@ -1,0 +1,18 @@
+﻿
+@{
+}
+<form action="/DocUpload/UploadDocument" method="post" enctype="multipart/form-data">
+    <!-- please make below select with dynamic values from db :: docTypeMaster table -->
+        <input type="hidden" name="id" value="@ViewBag.Id" />
+    <select name="docType">
+        <option value="select">Select The Document Type</option>
+        <option value="Pancard">Pan Card</option>
+        <option value="Aadharcard">Aadhar Card</option>
+        <option value="Payslip">PaySlip</option>
+        <option value="BankStatement">Bank Statement</option>
+        <option value="Addressproof">Address Proof</option>
+        <option value="Form16">Form 16</option>
+    </select><br/>
+    <input type="file" name="document" /> <br/>
+    <input type="submit" value="Upload" />
+</form>

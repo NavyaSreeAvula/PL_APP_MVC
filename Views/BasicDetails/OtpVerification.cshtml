@@ -1,0 +1,11 @@
+﻿
+@{
+}
+<form action="ValidateOtp" method="post">
+    <input type="hidden" name="Emailid" value="@ViewBag.Emailid" />
+    Enter OTP : <input type="text" name="otp" /><br/> 
+    <input type="submit" value="Verify OTP" />
+</form>
+<div style="color:red">
+    @ViewBag.msg
+</div>

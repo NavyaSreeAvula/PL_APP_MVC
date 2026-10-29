@@ -1,0 +1,66 @@
+[
+  {
+    "ContainingType": "PL_APP_MVC.Controllers.BasicDetailsAPIController",
+    "Method": "GenerateOtp",
+    "RelativePath": "api/BasicDetailsAPI/GenerateOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "otpDto",
+        "Type": "PL_APP_MVC.Dtos.OtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PL_APP_MVC.Controllers.BasicDetailsAPIController",
+    "Method": "ValidateBasicDetails",
+    "RelativePath": "api/BasicDetailsAPI/ValidateBasicDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "basicDetails",
+        "Type": "PL_APP_MVC.Dtos.BasicDetailsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PL_APP_MVC.Controllers.BasicDetailsAPIController",
+    "Method": "ValidateOtp",
+    "RelativePath": "api/BasicDetailsAPI/ValidateOtp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "otpDto",
+        "Type": "PL_APP_MVC.Dtos.OtpDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PL_APP_MVC.Controllers.CompanyDetailsAPIController",
+    "Method": "SaveCompanyDetails",
+    "RelativePath": "api/CompanyDetailsAPI/SaveCompanyDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "companyDto",
+        "Type": "PL_APP_MVC.Dtos.CompanyDetailsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

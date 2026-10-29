@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\sandeep\\PL_APP_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\services\\stageviewmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:services\\stageviewmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\docuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\docuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\basicdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\basicdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\docupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\docupload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\bankdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\bankdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\personaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\personaldetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\loandetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\loandetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\services\\loancalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:services\\loancalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\companydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\companydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\companydetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\companydetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\basicdetails\\otpverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\basicdetails\\otpverification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\manager\\viewapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\manager\\viewapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\thankyoucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\thankyoucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\basicdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\basicdetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\bankdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\bankdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\personaldetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\personaldetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\thankyou\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\thankyou\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\docupload\\addnewdocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\docupload\\addnewdocument.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\basicdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\basicdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\controllers\\companydetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:controllers\\companydetailsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\aadharmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\aadharmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:services\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\standardmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\standardmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\rulesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\rulesmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\pincodemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\pincodemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\panmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\panmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\doctypemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\doctypemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\companymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\companymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\models\\companydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:models\\companydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\dtos\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:dtos\\otpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\dtos\\companydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:dtos\\companydetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|e:\\sandeep\\pl_app_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72B9299A-6D3C-A29C-32E2-3422FDB8F585}|PL_APP_MVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 206,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoanDetailsController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\LoanDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoanDetailsController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\LoanDetailsController.cs",
+              "RelativeToolTip": "Controllers\\LoanDetailsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAawEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T08:58:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasicDetailsController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BasicDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasicDetailsController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BasicDetailsController.cs",
+              "RelativeToolTip": "Controllers\\BasicDetailsController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAawFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:03:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StageViewMapper.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Services\\StageViewMapper.cs",
+              "RelativeDocumentMoniker": "Services\\StageViewMapper.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Services\\StageViewMapper.cs",
+              "RelativeToolTip": "Services\\StageViewMapper.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocUploadController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\DocUploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocUploadController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\DocUploadController.cs",
+              "RelativeToolTip": "Controllers\\DocUploadController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAIA1wD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:31:29.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalDetailsController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\PersonalDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonalDetailsController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\PersonalDetailsController.cs",
+              "RelativeToolTip": "Controllers\\PersonalDetailsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAawEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:12:08.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankDetailsController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BankDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BankDetailsController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BankDetailsController.cs",
+              "RelativeToolTip": "Controllers\\BankDetailsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAawD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T07:25:39.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\DocUpload\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DocUpload\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\DocUpload\\Index.cshtml",
+              "RelativeToolTip": "Views\\DocUpload\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T05:22:31.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyDetailsController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\CompanyDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyDetailsController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\CompanyDetailsController.cs",
+              "RelativeToolTip": "Controllers\\CompanyDetailsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAawHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T08:58:03.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OtpVerification.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\BasicDetails\\OtpVerification.cshtml",
+              "RelativeDocumentMoniker": "Views\\BasicDetails\\OtpVerification.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\BasicDetails\\OtpVerification.cshtml",
+              "RelativeToolTip": "Views\\BasicDetails\\OtpVerification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T10:14:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "Views\\Manager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T16:20:29.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewApplication.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\Manager\\ViewApplication.cshtml",
+              "RelativeDocumentMoniker": "Views\\Manager\\ViewApplication.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\Manager\\ViewApplication.cshtml",
+              "RelativeToolTip": "Views\\Manager\\ViewApplication.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T09:10:24.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoanCalculatorService.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Services\\LoanCalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\LoanCalculatorService.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Services\\LoanCalculatorService.cs",
+              "RelativeToolTip": "Services\\LoanCalculatorService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Controllers\\ManagerController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAawEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:03:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\CompanyDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\CompanyDetails\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\CompanyDetails\\Index.cshtml",
+              "RelativeToolTip": "Views\\CompanyDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T10:28:49.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThankYouController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\ThankYouController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ThankYouController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\ThankYouController.cs",
+              "RelativeToolTip": "Controllers\\ThankYouController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:37:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasicDetailsAPIController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BasicDetailsAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasicDetailsAPIController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\BasicDetailsAPIController.cs",
+              "RelativeToolTip": "Controllers\\BasicDetailsAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T09:02:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:32:39.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\BankDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BankDetails\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\BankDetails\\Index.cshtml",
+              "RelativeToolTip": "Views\\BankDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T08:04:42.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\PersonalDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PersonalDetails\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\PersonalDetails\\Index.cshtml",
+              "RelativeToolTip": "Views\\PersonalDetails\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T05:14:19.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\ThankYou\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ThankYou\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\ThankYou\\Index.cshtml",
+              "RelativeToolTip": "Views\\ThankYou\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T06:45:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddNewDocument.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\DocUpload\\AddNewDocument.cshtml",
+              "RelativeDocumentMoniker": "Views\\DocUpload\\AddNewDocument.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\DocUpload\\AddNewDocument.cshtml",
+              "RelativeToolTip": "Views\\DocUpload\\AddNewDocument.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T06:03:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T17:27:12.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-09T17:27:22.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Basicdetail.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Basicdetail.cs",
+              "RelativeDocumentMoniker": "Models\\Basicdetail.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Basicdetail.cs",
+              "RelativeToolTip": "Models\\Basicdetail.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:39:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Aadharmaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Aadharmaster.cs",
+              "RelativeDocumentMoniker": "Models\\Aadharmaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Aadharmaster.cs",
+              "RelativeToolTip": "Models\\Aadharmaster.cs",
+              "ViewState": "AgIAAAUAAAAwMzMzMzM7wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:39:29.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StandardMessages.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\StandardMessages.cs",
+              "RelativeDocumentMoniker": "Models\\StandardMessages.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\StandardMessages.cs",
+              "RelativeToolTip": "Models\\StandardMessages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Rulesmaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Rulesmaster.cs",
+              "RelativeDocumentMoniker": "Models\\Rulesmaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Rulesmaster.cs",
+              "RelativeToolTip": "Models\\Rulesmaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:53.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CompanyDetailsAPIController.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Controllers\\CompanyDetailsAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompanyDetailsAPIController.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Controllers\\CompanyDetailsAPIController.cs",
+              "RelativeToolTip": "Controllers\\CompanyDetailsAPIController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwFkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:28:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Usermaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Usermaster.cs",
+              "RelativeDocumentMoniker": "Models\\Usermaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Usermaster.cs",
+              "RelativeToolTip": "Models\\Usermaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:07.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "Services\\IMailService.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Services\\IMailService.cs",
+              "RelativeToolTip": "Services\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:12.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Services\\MailService.cs",
+              "RelativeDocumentMoniker": "Services\\MailService.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Services\\MailService.cs",
+              "RelativeToolTip": "Services\\MailService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:41:24.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Pincodemaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Pincodemaster.cs",
+              "RelativeDocumentMoniker": "Models\\Pincodemaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Pincodemaster.cs",
+              "RelativeToolTip": "Models\\Pincodemaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:45.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Panmaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Panmaster.cs",
+              "RelativeDocumentMoniker": "Models\\Panmaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Panmaster.cs",
+              "RelativeToolTip": "Models\\Panmaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:37.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:23.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Doctypemaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Doctypemaster.cs",
+              "RelativeDocumentMoniker": "Models\\Doctypemaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Doctypemaster.cs",
+              "RelativeToolTip": "Models\\Doctypemaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:17.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Companymaster.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Companymaster.cs",
+              "RelativeDocumentMoniker": "Models\\Companymaster.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Companymaster.cs",
+              "RelativeToolTip": "Models\\Companymaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:40:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Companydetail.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Models\\Companydetail.cs",
+              "RelativeDocumentMoniker": "Models\\Companydetail.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Models\\Companydetail.cs",
+              "RelativeToolTip": "Models\\Companydetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:39:49.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OtpDto.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Dtos\\OtpDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\OtpDto.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Dtos\\OtpDto.cs",
+              "RelativeToolTip": "Dtos\\OtpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:39:15.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompanyDetailsDto.cs",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Dtos\\CompanyDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CompanyDetailsDto.cs",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Dtos\\CompanyDetailsDto.cs",
+              "RelativeToolTip": "Dtos\\CompanyDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T14:38:51.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\sandeep\\PL_APP_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\sandeep\\PL_APP_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T14:15:11.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

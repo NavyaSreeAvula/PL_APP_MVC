@@ -1,0 +1,18 @@
+﻿
+@model IEnumerable<PL_APP_MVC.Models.Docuploaddetail>
+@{
+}
+<h1>Existing Uploaded Documents</h1>
+<a href="/DocUpload/AddNewDocument?id=@ViewBag.Id">Add New Document</a>
+
+<ul>
+@foreach (Docuploaddetail docupload in Model)
+{
+   <li>@docupload.Doctype - Uploaded at @docupload.Docpath</li>
+}
+</ul>
+
+<form action="/DocUpload/SaveChanges" method="Post">
+    <input type="hidden" name="id" value="@ViewBag.Id" />
+    <input type="submit" value="Continue" />    
+</form>
